@@ -36,7 +36,7 @@ The dataset includes the following fields:
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](Images/hr_dashboard.png)
+![HR Analytics Dashboard](hr_dashboard.png)
 
 ---
 
