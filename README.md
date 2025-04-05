@@ -53,7 +53,7 @@ The dataset includes the following fields:
 ---
 
 ## 🚀 Getting Started
-1. Download `hr analytics power bi project.pbix`
+1. Download `HR_Analytics_Dashboard.pbix`
 2. Open with [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 3. Explore visuals and filters for insights
 
